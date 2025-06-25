@@ -9,7 +9,7 @@ function home() {
       abençoe e te cure de todo o seu cansaço e te dizer que te amo muito
       ❤💖💕😎, mais que o universo e os grãos de areia, e eu agradeço a Deus
       por te ter como mãe, e como isso dito eu gostaria muito de te pedir uma
-      coisa mostra aquele sorriso lindo que vc tem.1
+      coisa mostra aquele sorriso lindo que vc tem.
     </h1>
   );
 }
