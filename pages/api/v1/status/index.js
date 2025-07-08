@@ -1,4 +1,4 @@
-import database from "../../../../infra/database.js";
+import database from "infra/database.js";
 
 async function status(request, response) {
   const result = await database.query("SELECT 1 + 1 as sun;"); //as é o que define o nome da query e o que susede ela é o nome em questão
